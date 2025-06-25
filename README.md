@@ -1,5 +1,5 @@
 # Tour-Travels-web-design
 
-Using html, css, javascript
+Description
 
-User can use this to find best favorite place
+A responsive and user-friendly website for booking tours and travel packages. Includes pages for destinations, packages, contact form, and user reviews.
