@@ -17,7 +17,7 @@ Customer reviews/testimonials
 Responsive design (mobile/tablet friendly)
 
 # Technologies Used
-HTML5
+HTML
 
 CSS3
 
