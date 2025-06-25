@@ -5,7 +5,7 @@ Description
 A responsive and user-friendly website for booking tours and travel packages. Includes pages for destinations, packages, contact form, and user reviews.
 
 
-Features
+# Features
 Homepage with hero banner and navigation
 
 Tour package listing with details
@@ -16,7 +16,7 @@ Customer reviews/testimonials
 
 Responsive design (mobile/tablet friendly)
 
-Technologies Used
+# Technologies Used
 HTML5
 
 CSS3
